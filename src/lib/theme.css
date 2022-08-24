@@ -1,13 +1,13 @@
 /* Global Variables */
 :root {
 	/* Accent Colors */
-	--fds-accent-light-3: 191, 98%, 80%;
-	--fds-accent-light-2: 199, 99%, 69%;
-	--fds-accent-light-1: 205, 100%, 49%;
-	--fds-accent-base: 206, 100%, 42%;
-	--fds-accent-dark-1: 209, 100%, 36%;
-	--fds-accent-dark-2: 215, 100%, 29%;
-	--fds-accent-dark-3: 226, 100%, 20%;
+	--fds-accent-light-3: 5, 98%, 64%;
+	--fds-accent-light-2: 9, 98%, 58%;
+	--fds-accent-light-1: 359, 98%, 62%;
+	--fds-accent-base: 6, 100%, 35%;
+	--fds-accent-dark-1: 2, 100%, 36%;
+	--fds-accent-dark-2: 1, 100%, 29%;
+	--fds-accent-dark-3: 0, 100%, 20%;
 
 	/* Font Families */
 	--fds-font-family-fallback: "Segoe UI", -apple-system, ui-sans-serif, system-ui,
